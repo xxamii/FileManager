@@ -11,8 +11,8 @@ It was originally developed in my [DotnetBootcampYakovliev](https://github.com/x
 # How to Use It
 
 - Download the repository, and unzip it.
-- Open the solution inside Visual Studio.
-- Build the project and run it.
+- Go to FileManager/bin/Debug.
+- Run FileManager.exe.
 
 ### Commands
 
