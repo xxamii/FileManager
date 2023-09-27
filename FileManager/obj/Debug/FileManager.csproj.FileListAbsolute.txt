@@ -1,0 +1,15 @@
+D:\Programming\C#\FileManager\FileManager\bin\Debug\FileManager.exe.config
+D:\Programming\C#\FileManager\FileManager\bin\Debug\FileManager.exe
+D:\Programming\C#\FileManager\FileManager\bin\Debug\FileManager.pdb
+D:\Programming\C#\FileManager\FileManager\bin\Debug\FluentAssertions.dll
+D:\Programming\C#\FileManager\FileManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming\C#\FileManager\FileManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programming\C#\FileManager\FileManager\bin\Debug\FluentAssertions.pdb
+D:\Programming\C#\FileManager\FileManager\bin\Debug\FluentAssertions.xml
+D:\Programming\C#\FileManager\FileManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programming\C#\FileManager\FileManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Programming\C#\FileManager\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
+D:\Programming\C#\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+D:\Programming\C#\FileManager\FileManager\obj\Debug\FileManager.csproj.CopyComplete
+D:\Programming\C#\FileManager\FileManager\obj\Debug\FileManager.exe
+D:\Programming\C#\FileManager\FileManager\obj\Debug\FileManager.pdb
